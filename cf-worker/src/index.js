@@ -1,5 +1,5 @@
 // 改成你自己的 Github 用户名，注意是登录 Github 的那个用户名.
-const githubUserName = "LamGC";
+const githubUserName = "Yorlg";
 // 改成你 Fork 后的仓库名，记得要开启 Github Pages 功能.
 const githubInstSshProjectName = "quickly-conf-sshd";
 // 如果可以，建议在此设置备用的 SSH 公钥, 以防 Github 无法使用.
